@@ -9,6 +9,6 @@ Small project that explores several concepts of   programing to Android mobile d
   </tr>
 </table>
 
-####Step 1
+###Step 1
 * Activity, View Model and onSaveInstanceState
 * [Android app architecture](https://developer.android.com/jetpack/guide#recommended-app-arch)
