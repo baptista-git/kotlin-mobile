@@ -12,7 +12,7 @@ Small project that explores several concepts of   programing to Android mobile d
 ### Step 1 - Handle Activity State Changes
 * Activity, View Model and onSaveInstanceState
 * [Android app architecture](https://developer.android.com/jetpack/guide#recommended-app-arch)
-### Step 2 - Room & RecyclerView
+### Step 2 - Room & Recycler View
 * Room & database ; repository ; Room Type Converters
-* Observing LiveData;
+* Observing LiveData
 * RecyclerView & ViewHolder
