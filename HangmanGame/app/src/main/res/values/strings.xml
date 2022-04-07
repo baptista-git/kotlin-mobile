@@ -8,10 +8,4 @@
     <string name="letter_already_used">Letter already used</string>
     <string name="invalid_character">Invalid character</string>
     <string name="new_game">New Game</string>
-    <string-array name="gess_words">
-        <item>sapato</item>
-        <item>neptuno</item>
-        <item>arquipelago</item>
-        <item>telematica</item>
-    </string-array>
 </resources>
